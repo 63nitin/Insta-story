@@ -3,18 +3,18 @@
     "id": "story-1",
     "user": {
       "name": "Alex Ray",
-      "avatarUrl": "https://placehold.co/100x100.png?a=alex"
+      "avatarUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/website-design-service-ad-template-ba74fa24122a8815feb5efe9f9a3a7e3.jpg?ts=1732690879"
     },
-    "imageUrl": "https://placehold.co/1080x1920.png?a=cityscape",
+    "imageUrl": "/templete.png",
     "duration": 5000
   },
   {
     "id": "story-2",
     "user": {
       "name": "Mia Wong",
-      "avatarUrl": "https://placehold.co/100x100.png?a=mia"
+      "avatarUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/website-design-service-ad-template-ba74fa24122a8815feb5efe9f9a3a7e3.jpg?ts=1732690879"
     },
-    "imageUrl": "https://placehold.co/1080x1920.png?a=nature",
+     "imageUrl": "/templete.png",
     "duration": 5000
   },
   {
@@ -23,7 +23,7 @@
       "name": "Samira K.",
       "avatarUrl": "https://placehold.co/100x100.png?a=samira"
     },
-    "imageUrl": "https://placehold.co/1080x1920.png?a=food",
+     "imageUrl": "/templete.png",
     "duration": 5000
   },
   {
@@ -32,7 +32,7 @@
       "name": "John Doe",
       "avatarUrl": "https://placehold.co/100x100.png?a=john"
     },
-    "imageUrl": "https://placehold.co/1080x1920.png?a=travel",
+     "imageUrl": "/templete.png",
     "duration": 5000
   },
   {
@@ -41,14 +41,14 @@
       "name": "Tech Life",
       "avatarUrl": "https://placehold.co/100x100.png?a=tech"
     },
-    "imageUrl": "https://placehold.co/1080x1920.png?a=technology",
+    "imageUrl": "/templete.png",
     "duration": 5000
   },
   {
     "id": "story-6",
     "user": {
       "name": "Art Vibe",
-      "avatarUrl": "https://placehold.co/100x100.png?a=art"
+      "avatarUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/website-design-service-ad-template-ba74fa24122a8815feb5efe9f9a3a7e3.jpg?ts=1732690879"
     },
     "imageUrl": "https://placehold.co/1080x1920.png?a=abstract",
     "duration": 5000

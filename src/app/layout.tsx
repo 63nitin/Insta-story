@@ -16,6 +16,12 @@ const geistMono = Geist_Mono({ // Corrected instantiation
 export const metadata: Metadata = {
   title: 'StoryFlow',
   description: 'View and share engaging stories.',
+  icons: {
+    icon: '/templete.png', // Path to your favicon in the public folder
+    // You can also add other types:
+    // apple: '/apple-touch-icon.png', // For Apple devices
+    // shortcut: '/favicon-16x16.png', // For shortcut icon
+  },
 };
 
 export default function RootLayout({
